@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Saurabh Barde";
+            document.title = "Portfolio | Bhushan Kale";
             $("#favicon").attr("href", "assets/images/favicon.ico");
         }
         else {

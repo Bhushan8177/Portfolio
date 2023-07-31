@@ -780,7 +780,7 @@ header .navbar ul li a:hover {
 .experience .timeline {
   position: relative;
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 30px auto;
 }
 .experience .timeline::after {
   content: "";
@@ -877,6 +877,7 @@ header .navbar ul li a:hover {
 .morebtn {
   display: flex;
   justify-content: center;
+  margin-top: 35px;
 }
 .morebtn .btn {
   position: relative;
